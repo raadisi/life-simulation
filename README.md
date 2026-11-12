@@ -6,7 +6,7 @@ An E-Ecosystem simulator with silly little creatures.
 
 - [Features](#features)
 - [Contributing](#contributing)
-- [Try](#try-it)
+- [Try it](#try-it)
 
 ## Features
 
